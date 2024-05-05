@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Bone Fracture",
+        "img": "assets/Bone Fracture.jpeg"
+      },
+      {
+        "title": "Dental",
+        "img": "assets/Dental.jpeg"
+      },
+      {
+        "title": "Neurology",
+        "img": "assets/Neurology.jpg"
+      },
+      {
+        "title": "Orthopedics",
+        "img": "assets/Orthopedics.jpeg"
+      },
+      {
+          "title": "Urology",
+          "img": "assets/Urology.jpg"
+      },
+      {
+        "title": "Dermatology",
+        "img": "assets/Dermatology.jpeg"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Cardiology",
+      "img": "assets/Cardiology.jpg"
+    },
+    {
+      "title": "Dental",
+      "img": "assets/Dental.jpeg"
+    },
+    {
+      "title": "pulmonology",
+      "img": "assets/pulmonology.jpeg"
+    },
+    {
+      "title": "Orthopedics",
+      "img": "assets/Orthopedics.jpeg"
+    },
+    {
+        "title": "Urology",
+        "img": "assets/Urology.jpg"
+    },
+    {
+        "title": "Paediatrics",
+        "img": "assets/Paediatrics.jpeg"
+    }
+  ]

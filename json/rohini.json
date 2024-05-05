@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Cardiology",
+      "img": "assets/Cardiology.jpg"
+    },
+    {
+      "title": "Dental",
+      "img": "assets/Dental.jpeg"
+    },
+    {
+      "title": "Neurology",
+      "img": "assets/Neurology.jpg"
+    },
+    {
+      "title": "General Health",
+      "img": "assets/General Health.jpg"
+    },
+    {
+        "title": "Urology",
+        "img": "assets/Urology.jpg"
+    },
+    {
+        "title": "Gyynecology",
+        "img": "assets/Gyynecology.jpg"
+    }
+  ]

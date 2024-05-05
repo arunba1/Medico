@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Cardiology",
+        "img": "assets/Cardiology.jpg"
+      },
+      {
+        "title": "Laparoscopic Surgery",
+        "img": "assets/LaparoscopicSurgery.jpg"
+      },
+      {
+        "title": "Orthopedics",
+        "img": "assets/Orthopedics.jpeg"
+      },
+      {
+        "title": "Gynaecology",
+        "img": "assets/Gyynecology.jpg"
+      },
+      {
+        "title": "Radiation",
+        "img": "assets/Radiation Therapies.jpeg"
+      },
+      {
+        "title": "Surgical Oncology",
+        "img": "assets/SurgicalOncology.jpeg"
+      }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Physiotherapy",
+        "img": "assets/Physiotherapy.jpg"
+      },
+      {
+          "title": "Gynaecology",
+          "img": "assets/Gyynecology.jpg"
+        },
+        {
+            "title": "Skin",
+            "img": "assets/skin.jpeg"
+        },
+        {
+            "title": "Dental",
+            "img": "assets/Dental.jpeg"
+        },
+      {
+        "title": "Neurology",
+        "img": "assets/Neurology.jpg"
+      },
+      {
+        "title": "ENT",
+        "img": "assets/ENT.jpeg"
+      }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Pediatric",
+      "img": "assets/Paediatrics.jpeg"
+    },
+    {
+      "title": "Liver and Pancreatic Care",
+      "img": "assets/Liver and Pancreatic Care.jpeg"
+    },
+    {
+      "title": "Maternity Health",
+      "img": "assets/Maternity Health.jpg"
+    },
+    {
+      "title": "Gastroentrology",
+      "img": "assets/Gastroentrology.jpg"
+    },
+    {
+        "title": "Oncology",
+        "img": "assets/Oncology.jpeg"
+    },
+    {
+        "title": "General Health",
+        "img": "assets/General Health.jpg"
+    }
+  ]

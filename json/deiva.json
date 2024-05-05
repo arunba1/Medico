@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Bone Tumour",
+      "img": "assets/Bone Tumor.jpg"
+    },
+    {
+      "title": "Dengue Fever",
+      "img": "assets/Dengue Fever.jpeg"
+    },
+    {
+      "title": "Bone Fracture",
+      "img": "assets/Bone Fracture.jpeg"
+    },
+    {
+      "title": "Pediatrics",
+      "img": "assets/Paediatrics.jpeg"
+    }
+  ]

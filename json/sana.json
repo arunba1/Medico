@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Radiation",
+        "img": "assets/Radiation Therapies.jpeg"
+      },
+      {
+          "title": "Psychiatry",
+          "img": "assets/Psychiatry.jpg"
+        },
+    {
+      "title": "Physiotheraphy",
+      "img": "assets/Physiotherapy.jpg"
+    },
+    {
+        "title": "",
+        "img": "assets/LaparoscopicSurgery.jpg"
+      }
+  ]

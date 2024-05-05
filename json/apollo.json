@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Nephrology",
+        "img": "assets/Nephrology.jpeg"
+    },
+    {
+        "title": "Cardiology",
+        "img": "assets/Cardiology.jpg"
+      },
+      {
+        "title": "Orthopedics",
+        "img": "assets/Orthopedics.jpeg"
+      },
+      {
+          "title": "Urology",
+          "img": "assets/Urology.jpg"
+      },
+      {
+        "title":"Gastroenterology",
+        "img": "assets/Gastroenterology.jpeg"
+    },
+    {
+        "title": "Neurology",
+        "img": "assets/Neurology.jpg"
+    }
+]
